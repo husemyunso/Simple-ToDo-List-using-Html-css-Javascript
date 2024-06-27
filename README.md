@@ -19,6 +19,9 @@ By working through this project, beginners can gain hands-on experience with cor
 - **Delete Tasks:** Users can delete tasks they no longer need.
 - **Persistent Storage:** Tasks are stored in the browser's local storage, so they are not lost when the browser is closed.
 
+## Screenshot
+![To-Do List Screenshot](https://github.com/husemyunso/Simple-ToDo-List-using-Html-css-Javascript/blob/main/Screenshot-demo.png)
+
 ## Project Structure
 
 The project is composed of the following files:
