@@ -2,6 +2,7 @@
 
 This is a simple and elegant To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to add, mark as complete, and delete tasks. All tasks are saved in the browser's local storage, so your tasks will persist even after you close the browser.
 
+## Benefits
 This project is particularly important for beginners as it covers fundamental concepts of web development, including:
 
 - **HTML Structure:** Building the structure of a web page.
